@@ -2,7 +2,7 @@
  
  👀 I’m interested in coding, the outdoors and climbing
  
- 🌱 I’m a fullstack web developer 
+ 🌱 I’m a fullstack web developer working in Chamonix, French Alps.
 
  🎓 Former student at Linnaeus University.
   Bsc degree in Computer Science, Web development
